@@ -1,0 +1,10 @@
+/* DEBUGGING */
+* {
+  box-sizing: border-box;
+  border-style: dotted;
+  border-width: 1px;
+}
+
+html {
+  text-size-adjust: 100%;
+}
